@@ -1,6 +1,2 @@
 file editted from remote
-<<<<<<< HEAD
 new line edit number 2
-=======
-new line edit
->>>>>>> 763abfa158898d267c3dbd6d8d7c5e07175c8c26
