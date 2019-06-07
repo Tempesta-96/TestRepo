@@ -1,7 +1,0 @@
-file editted from remote
-<<<<<<< HEAD
-new line edit number 2
-=======
-new line edit
-line3
->>>>>>> c10a43164316385167e7d8aa8cc6dee63a00dc34
